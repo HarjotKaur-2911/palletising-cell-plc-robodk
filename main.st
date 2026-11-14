@@ -13,7 +13,7 @@ VAR
   State      : INT := 0;
   BoxCount   : INT := 0;
   FaultCode  : INT := 0;
-  Use_Sim    : BOOL := TRUE;
+  Use_Sim    : BOOL := FALSE;
   Robot_Done : BOOL;
   StartEdge  : R_TRIG;
   ResetEdge  : R_TRIG;
