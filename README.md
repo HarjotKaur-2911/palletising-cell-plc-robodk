@@ -9,6 +9,8 @@ A PLC-controlled palletising cell, **designed and tested in simulation**.
 An OpenPLC program runs the cell logic (state machine, E-stop, timeouts, fault codes).
 A Python script in RoboDK moves a simulated UR10e robot. The two talk over **Modbus TCP**.
 
+**Demo video (52 s):**
+https://github.com/HarjotKaur-2911/palletising-cell-plc-robodk/issues/1#issue-6395499701
 
 ![12 boxes placed on the pallet](pallet-12-boxes.png)
 
